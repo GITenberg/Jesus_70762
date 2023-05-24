@@ -1,5 +1,8 @@
 _repo: Jesus_70762
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70762-h/images/cover.jpg
 creator:
   author:
     agent_name: Barbusse, Henri
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Henri_Barbusse
     - https://fr.wikipedia.org/wiki/Henri_Barbusse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70762#Jesus
 gutenberg_issued: '2023-05-14'
 identifiers:
   gutenberg: '70762'
